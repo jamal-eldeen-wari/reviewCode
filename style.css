@@ -1,0 +1,64 @@
+body{
+    background-image: url('tech.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+header{
+    text-align: center;
+    padding: 4%;
+    background-color: aliceblue;
+    font-size: 40px;
+}
+#formContainer{
+    float: left;
+    margin-left: 180px;
+    margin-top: 30px;
+    background-color: chartreuse;
+}
+#tableContainer{
+    float: right;
+    margin-right: 180px;
+    margin-top: 30px;
+    background-color: chartreuse;
+}
+#table{
+    border: black solid;
+}
+#table tr{
+    border: black solid;
+}
+#table td{
+    border: black solid;
+}
+#table th{
+    border: black solid;
+    font-weight: bolder;
+}
+label{
+    font-weight: bolder;
+}
+#add{
+    background-color: black;
+    font-weight: bold;
+    color: chartreuse;
+}
+#add:hover{
+    background-color: chartreuse;
+    color: black;
+}
+
+input{
+    background-color: black;
+    color:chartreuse;
+}
+option{
+    background-color: black;
+    color: chartreuse;
+}
+select{
+    background-color: black;
+    color: chartreuse;
+}
+
+
